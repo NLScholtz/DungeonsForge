@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "fcd3b4ca0abcf15e323afc7bf658fe135a59efcb1fae7708c9444e7449a4973a"
+build_start_time: [1683035805, 316894054]
+build_end_time: [1683035805, 340697050]
+inputs:
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/AdventuresViewModelTest.swift": !private [1683035414, 273740053]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/CharacterSheetViewModelTest.swift": !private [1683035601, 25076150]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/LandingViewModelTest.swift": !private [1683035384, 357986450]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/LibraryViewModelTest.swift": !private [1683035440, 332102775]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/NewCharacterViewModelTest.swift": !private [1683035462, 761157512]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/SecondaryCharacterViewModelTest.swift": !private [1683035506, 794831752]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/SignInViewModelTest.swift": !private [1683035628, 477942466]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/SignUpViewModelTest.swift": !private [1683035639, 141869068]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForgeTests/ThirdCharacterViewModelTest.swift": !private [1683035568, 127625465]

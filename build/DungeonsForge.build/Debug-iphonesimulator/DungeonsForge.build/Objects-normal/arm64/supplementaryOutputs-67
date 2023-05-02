@@ -1,0 +1,25 @@
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/CustomViews/RoundedView.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/RoundedView.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/RoundedView.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/RoundedView.dia"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/RoundedView.d"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/CustomViews/BaseViewController.swift":
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/BaseViewController.dia"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/BaseViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/BaseViewController.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/BaseViewController.swiftdeps"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/OnboardingScreen/View/SignInViewController.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignInViewController.d"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignInViewController.dia"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignInViewController.swiftdeps"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignInViewController.o"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Services/AppDataStore.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AppDataStore.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AppDataStore.swiftdeps"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AppDataStore.d"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AppDataStore.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/LibraryScreen/Model/LibraryModel.swift":
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryModel.dia"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryModel.d"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryModel.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryModel.swiftdeps"

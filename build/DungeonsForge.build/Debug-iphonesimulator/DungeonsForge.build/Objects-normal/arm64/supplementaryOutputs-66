@@ -1,0 +1,25 @@
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/AdventureScreen/View/AdventuresViewController.swift":
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewController.dia"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewController.swiftdeps"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewController.d"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/SideMenuScreen/Model/SideMenuModel.swift":
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuModel.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuModel.dia"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuModel.d"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuModel.o"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/OnboardingScreen/ViewModel/SignUpViewModel.swift":
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewModel.dia"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewModel.swiftdeps"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewModel.d"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewModel.o"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/HomeScreen/View/ContainerViewController.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/ContainerViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/ContainerViewController.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/ContainerViewController.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/ContainerViewController.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/AdventureScreen/ViewModel/AdventuresViewModel.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewModel.o"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewModel.dia"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewModel.swiftdeps"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresViewModel.d"

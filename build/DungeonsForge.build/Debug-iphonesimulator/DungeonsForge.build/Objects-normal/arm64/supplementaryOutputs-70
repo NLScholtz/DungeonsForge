@@ -1,0 +1,20 @@
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Launch+SplashScreen/View/SplashViewController.swift":
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SplashViewController.swiftdeps"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SplashViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SplashViewController.d"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SplashViewController.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/LibraryScreen/ViewModel/LibraryViewModel.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewModel.d"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewModel.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewModel.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewModel.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/View/SecondaryCharacterViewController.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SecondaryCharacterViewController.d"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SecondaryCharacterViewController.dia"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SecondaryCharacterViewController.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SecondaryCharacterViewController.swiftdeps"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/CharacterSheetScreen/ViewModel/CharacterSheetViewModel.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewModel.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewModel.d"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewModel.dia"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewModel.swiftdeps"

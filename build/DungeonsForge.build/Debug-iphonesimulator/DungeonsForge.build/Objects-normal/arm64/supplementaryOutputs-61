@@ -1,0 +1,25 @@
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/AdventureScreen/Model/AdventuresModel.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresModel.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresModel.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresModel.dia"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AdventuresModel.d"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/HomeScreen/View/TabBar/AddCharacterTabBar.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AddCharacterTabBar.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AddCharacterTabBar.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AddCharacterTabBar.dia"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/AddCharacterTabBar.o"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Models/Responses.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/Responses.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/Responses.swiftdeps"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/Responses.o"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/Responses.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/CharacterSheetScreen/View/CharacterSheetViewController.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewController.d"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewController.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewController.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/CharacterSheetViewController.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/CustomViews/PrimaryButtonRounded.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/PrimaryButtonRounded.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/PrimaryButtonRounded.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/PrimaryButtonRounded.dia"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/PrimaryButtonRounded.o"

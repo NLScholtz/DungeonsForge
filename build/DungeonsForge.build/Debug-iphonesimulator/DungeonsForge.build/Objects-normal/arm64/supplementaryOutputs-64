@@ -1,0 +1,25 @@
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/SideMenuScreen/View/SideMenuViewController.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuViewController.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuViewController.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SideMenuViewController.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/View/NewCharacterViewController.swift":
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/NewCharacterViewController.d"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/NewCharacterViewController.o"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/NewCharacterViewController.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/NewCharacterViewController.dia"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/HomeScreen/View/TabBar/TabBarViewController.swift":
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/TabBarViewController.dia"
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/TabBarViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/TabBarViewController.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/TabBarViewController.swiftdeps"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/LibraryScreen/View/LibraryViewController.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewController.d"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewController.dia"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/LibraryViewController.swiftdeps"
+"/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/OnboardingScreen/View/SignUpViewController.swift":
+  object: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewController.o"
+  dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewController.d"
+  swift-dependencies: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewController.swiftdeps"
+  diagnostics: "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/Objects-normal/arm64/SignUpViewController.dia"

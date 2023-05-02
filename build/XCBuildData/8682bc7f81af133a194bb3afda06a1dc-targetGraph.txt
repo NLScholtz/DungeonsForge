@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+DungeonsForge in DungeonsForge, no dependencies
+DungeonsForgeTests in DungeonsForge, depends on:
+DungeonsForge in DungeonsForge (explicit)
