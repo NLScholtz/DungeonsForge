@@ -23,6 +23,7 @@
 		3E48A8892A014D2F00093191 /* CharacterSheetViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E48A8882A014D2F00093191 /* CharacterSheetViewModelTest.swift */; };
 		3E48A88B2A014D5000093191 /* SignInViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E48A88A2A014D5000093191 /* SignInViewModelTest.swift */; };
 		3E48A88D2A014D6C00093191 /* SignUpViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E48A88C2A014D6C00093191 /* SignUpViewModelTest.swift */; };
+		3E48A88F2A03CDD000093191 /* CharacterSheet.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E48A88E2A03CDD000093191 /* CharacterSheet.storyboard */; };
 		3E972D602A0149C90014238C /* SecondaryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E972D5F2A0149C90014238C /* SecondaryViewModel.swift */; };
 		3EA599AE2A0130CC00CF7F5B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA599AD2A0130CC00CF7F5B /* AppDelegate.swift */; };
 		3EA599B52A0130CC00CF7F5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EA599B32A0130CC00CF7F5B /* Main.storyboard */; };
@@ -80,7 +81,6 @@
 		3EA59A812A01401400CF7F5B /* SettingsScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EA59A802A01401400CF7F5B /* SettingsScreen.storyboard */; };
 		3EA59A832A01402200CF7F5B /* AttributesScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EA59A822A01402200CF7F5B /* AttributesScreen.storyboard */; };
 		3EAB03502A01463E00CFD2F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EA599B62A0130CD00CF7F5B /* Assets.xcassets */; };
-		3EAB03522A01466C00CFD2F1 /* CharacterSheet.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EAB03512A01466C00CFD2F1 /* CharacterSheet.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,6 +104,7 @@
 		3E48A8882A014D2F00093191 /* CharacterSheetViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterSheetViewModelTest.swift; sourceTree = "<group>"; };
 		3E48A88A2A014D5000093191 /* SignInViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewModelTest.swift; sourceTree = "<group>"; };
 		3E48A88C2A014D6C00093191 /* SignUpViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewModelTest.swift; sourceTree = "<group>"; };
+		3E48A88E2A03CDD000093191 /* CharacterSheet.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CharacterSheet.storyboard; sourceTree = "<group>"; };
 		3E972D5F2A0149C90014238C /* SecondaryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondaryViewModel.swift; sourceTree = "<group>"; };
 		3EA599AA2A0130CC00CF7F5B /* DungeonsForge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DungeonsForge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EA599AD2A0130CC00CF7F5B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -162,7 +163,6 @@
 		3EA59A5F2A013D4B00CF7F5B /* ThirdCharacterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdCharacterViewController.swift; sourceTree = "<group>"; };
 		3EA59A612A013D6A00CF7F5B /* NewCharacterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewCharacterViewModel.swift; sourceTree = "<group>"; };
 		3EA59A652A013DA600CF7F5B /* ThirdCharacterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdCharacterViewModel.swift; sourceTree = "<group>"; };
-		3EA59A6A2A013EC500CF7F5B /* CharacterSheet.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CharacterSheet.storyboard; sourceTree = "<group>"; };
 		3EA59A6C2A013ED700CF7F5B /* CharacterSheetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterSheetViewController.swift; sourceTree = "<group>"; };
 		3EA59A6E2A013F0600CF7F5B /* CharacterSheetViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterSheetViewModel.swift; sourceTree = "<group>"; };
 		3EA59A722A013F4700CF7F5B /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
@@ -171,7 +171,6 @@
 		3EA59A7C2A013FDB00CF7F5B /* SideMenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuTableViewCell.swift; sourceTree = "<group>"; };
 		3EA59A802A01401400CF7F5B /* SettingsScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SettingsScreen.storyboard; sourceTree = "<group>"; };
 		3EA59A822A01402200CF7F5B /* AttributesScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AttributesScreen.storyboard; sourceTree = "<group>"; };
-		3EAB03512A01466C00CFD2F1 /* CharacterSheet.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = CharacterSheet.storyboard; path = DungeonsForge/CharacterSheetScreen/View/CharacterSheet.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,7 +210,6 @@
 		3EA599A12A0130CC00CF7F5B = {
 			isa = PBXGroup;
 			children = (
-				3EAB03512A01466C00CFD2F1 /* CharacterSheet.storyboard */,
 				3EA599AC2A0130CC00CF7F5B /* DungeonsForge */,
 				3E48A8742A014C2900093191 /* DungeonsForgeTests */,
 				3EA599AB2A0130CC00CF7F5B /* Products */,
@@ -540,7 +538,7 @@
 		3EA59A682A013E7E00CF7F5B /* View */ = {
 			isa = PBXGroup;
 			children = (
-				3EA59A6A2A013EC500CF7F5B /* CharacterSheet.storyboard */,
+				3E48A88E2A03CDD000093191 /* CharacterSheet.storyboard */,
 				3EA59A6C2A013ED700CF7F5B /* CharacterSheetViewController.swift */,
 			);
 			path = View;
@@ -714,8 +712,8 @@
 				3E48A86B2A014B6500093191 /* Maitree-Medium.ttf in Resources */,
 				3E48A86C2A014B6500093191 /* Maitree-Regular.ttf in Resources */,
 				3E48A86D2A014B6500093191 /* Maitree-SemiBold.ttf in Resources */,
+				3E48A88F2A03CDD000093191 /* CharacterSheet.storyboard in Resources */,
 				3E48A86E2A014B6500093191 /* OFL.txt in Resources */,
-				3EAB03522A01466C00CFD2F1 /* CharacterSheet.storyboard in Resources */,
 				3EA59A5A2A013CD700CF7F5B /* NewCharacter.storyboard in Resources */,
 				3EA599FF2A0133A700CF7F5B /* LaunchScreen.storyboard in Resources */,
 				3EA59A012A0133AF00CF7F5B /* SplashScreen.storyboard in Resources */,
