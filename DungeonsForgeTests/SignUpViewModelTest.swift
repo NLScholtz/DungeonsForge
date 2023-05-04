@@ -47,8 +47,6 @@ final class SignUpViewModelTest: XCTestCase {
         viewModelToTest?.signUp(username: "Selda", password: "123", email: "selda.co")
         XCTAssert(true)
     }
-    
-
 }
 
 

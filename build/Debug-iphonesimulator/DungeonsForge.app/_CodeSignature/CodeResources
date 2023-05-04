@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Xydq7TraWj4BAwFp+WwogaGxgj4=
+		xox0o8cUPlSUCAQhRDbhpGEkLwo=
 		</data>
 		<key>AttributesScreen.storyboardc/54i-m2-Nfe-view-Jb5-5u-jzn.nib</key>
 		<data>
@@ -100,21 +100,21 @@
 		<data>
 		xp99u017SzPlByiV10YDdIyuHd4=
 		</data>
-		<key>CharacterSheet.storyboardc/DTL-4h-lmC-view-rrv-Jr-G0k.nib</key>
+		<key>CharacterSheet.storyboardc/7rD-7Y-Qjl-view-4bV-l7-kcD.nib</key>
 		<data>
-		YwG2Grrrm3xQf5m2gHgG3z5yF3Q=
+		G+rj9+3AXAje2s9Gz1F3Yqh2meg=
 		</data>
 		<key>CharacterSheet.storyboardc/Info.plist</key>
 		<data>
-		e+LpPyYK9LiKhidDE+qjhwRN44w=
+		BgScH2IPXZX2+ljWuA13C9XkPMk=
 		</data>
-		<key>CharacterSheet.storyboardc/UIViewController-mkT-9c-Klp.nib</key>
+		<key>CharacterSheet.storyboardc/UIViewController-I29-b5-D2a.nib</key>
 		<data>
-		yC3DESNovzldc/jIQUyWknZaNa0=
+		MuLLKaohTcKk0cqRu0SMMV5coZ4=
 		</data>
 		<key>CharacterSheet.storyboardc/characterSheet.nib</key>
 		<data>
-		8tLSX0GbERgF5X+zbKWe/WIjDxk=
+		9OYaMrvg0fiLZCLFNScQ5NqQtak=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>NewCharacter.storyboardc/W1u-MX-Hnj-view-Cx3-yq-ozi.nib</key>
 		<data>
-		EYhKTefspMNCUaUgvGx5ACf6U/U=
+		PvhK62RAwvXXMSWx0m4fBoCt4h0=
 		</data>
 		<key>NewCharacter.storyboardc/addCharacterSheet.nib</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>NewCharacter.storyboardc/cBv-yQ-iTm-view-ssr-cx-fPl.nib</key>
 		<data>
-		6rR9vSUyl7VE2TkJP9cJ4g/AcVs=
+		pNdatfbcVBa2fffHlgtAChHdUKw=
 		</data>
 		<key>NewCharacter.storyboardc/dzK-Ub-byi-view-bDG-Sk-w3D.nib</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>PlugIns/DungeonsForgeTests.xctest/DungeonsForgeTests</key>
 		<data>
-		tWk2dnWuloZvHIPX5cPRwOnmbTs=
+		35/y5IMl66yMqko1rfg3VSFjvLI=
 		</data>
 		<key>PlugIns/DungeonsForgeTests.xctest/Info.plist</key>
 		<data>
@@ -289,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			him/53iEg+3YbOiYad9DVEkD7b1C6l64aio1DTLhQE4=
+			RlrGfNrsD7NI0K0O1OYow3rIkgVbmIEglx9bqFkAl3A=
 			</data>
 		</dict>
 		<key>AttributesScreen.storyboardc/54i-m2-Nfe-view-Jb5-5u-jzn.nib</key>
@@ -439,32 +439,32 @@
 			+Z0xqgD5Owf3wYKh/PrfGNzWMX8k6JPba7JF4ZNPdHc=
 			</data>
 		</dict>
-		<key>CharacterSheet.storyboardc/DTL-4h-lmC-view-rrv-Jr-G0k.nib</key>
+		<key>CharacterSheet.storyboardc/7rD-7Y-Qjl-view-4bV-l7-kcD.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pWPuN6mbb4593QV7drP7VbiTIxCCSFjgwtunS+O3irA=
+			mWe6dbvcovNZHTaVH2tq4mKQNR/BKiwbj08QDpOEADI=
 			</data>
 		</dict>
 		<key>CharacterSheet.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2cI3JZXDR+4c5XMrB0aQa5MDA6z02YItJv+v0XhnNQ4=
+			QoZKFVTxzwuh2jvXMVeVJ2Tq7si4zZmF6DhuYB5uQKU=
 			</data>
 		</dict>
-		<key>CharacterSheet.storyboardc/UIViewController-mkT-9c-Klp.nib</key>
+		<key>CharacterSheet.storyboardc/UIViewController-I29-b5-D2a.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aw0rgJZCXtOfFOZeBLIXSo6l9fKJRgCmJv+h95UHglU=
+			0VK5x93GYdFLcrNmWGQ/LE/5icTbs4njBcvSSKe8tG8=
 			</data>
 		</dict>
 		<key>CharacterSheet.storyboardc/characterSheet.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F5tbFpCvlVs5mL2U6R+BKLsJX530XASeretvShVSQ5s=
+			cChKmGEejsJhacTonasF0nUTN8cPPLnwk4K6nxwOkDM=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -562,7 +562,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZFSp/nTP8nUPrl92PBX8eHhcQpc0IqJWEEwTe9bscM=
+			4io+D00uUj022pRYnxJ+h/W1/CuvOsM5X5zCdDoqZFs=
 			</data>
 		</dict>
 		<key>NewCharacter.storyboardc/addCharacterSheet.nib</key>
@@ -576,7 +576,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RO+9GYTx8aMawwWrCXg7jR6ez4JJc5DHOYcYuRLV2Xg=
+			Lpiy6BZxh7VObBnXQj8L7RlaKRNAfhN1GGpZxpKuhZ8=
 			</data>
 		</dict>
 		<key>NewCharacter.storyboardc/dzK-Ub-byi-view-bDG-Sk-w3D.nib</key>
@@ -653,7 +653,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HRCIHfdInke/hOMe8wMkCItDqogCIlRdV7zYqLp5icU=
+			yz2q+d++pzhxFjm4W6T7qzYZP+4GIinEcit5fivC8mY=
 			</data>
 		</dict>
 		<key>PlugIns/DungeonsForgeTests.xctest/Info.plist</key>
