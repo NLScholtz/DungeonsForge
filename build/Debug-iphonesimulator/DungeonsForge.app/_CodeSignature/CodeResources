@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		xox0o8cUPlSUCAQhRDbhpGEkLwo=
+		nzNoJ2HQTTxWRex+AGPtgOdjKC0=
 		</data>
 		<key>AttributesScreen.storyboardc/54i-m2-Nfe-view-Jb5-5u-jzn.nib</key>
 		<data>
@@ -115,6 +115,14 @@
 		<key>CharacterSheet.storyboardc/characterSheet.nib</key>
 		<data>
 		9OYaMrvg0fiLZCLFNScQ5NqQtak=
+		</data>
+		<key>DungeonsForgeContainer.momd/DungeonsForgeContainer.mom</key>
+		<data>
+		2558M7bwalWRdbgt1inF7rLGlR8=
+		</data>
+		<key>DungeonsForgeContainer.momd/VersionInfo.plist</key>
+		<data>
+		VNbVY6wsAGeTcTMMzLHTH+zwiKo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -289,7 +297,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RlrGfNrsD7NI0K0O1OYow3rIkgVbmIEglx9bqFkAl3A=
+			YtxisN9p6fVUIIVk7avwBIgfdZ9m1JAT1mAhjKNlpEw=
 			</data>
 		</dict>
 		<key>AttributesScreen.storyboardc/54i-m2-Nfe-view-Jb5-5u-jzn.nib</key>
@@ -465,6 +473,20 @@
 			<key>hash2</key>
 			<data>
 			cChKmGEejsJhacTonasF0nUTN8cPPLnwk4K6nxwOkDM=
+			</data>
+		</dict>
+		<key>DungeonsForgeContainer.momd/DungeonsForgeContainer.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8u2EvyaW9XISs0/2H8C7Qu2COFpwTc9oN0RAkd4yYtc=
+			</data>
+		</dict>
+		<key>DungeonsForgeContainer.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b7tQe+LKpPdEkAoo/vO8mMI3fsFdGpR1YzbKmqsRzWo=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>

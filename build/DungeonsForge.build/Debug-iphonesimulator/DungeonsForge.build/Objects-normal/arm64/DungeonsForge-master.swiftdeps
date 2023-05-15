@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
 options: "5e77c2a403289fa19d8a3c183f48b845783c1e30e8d5edc36b2769f8627e21b9"
-build_start_time: [1683037233, 668738842]
-build_end_time: [1683037238, 789692878]
+build_start_time: [1684146063, 864801883]
+build_end_time: [1684146064, 783664941]
 inputs:
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/AdventureScreen/Model/AdventuresModel.swift": [1683037169, 165555238]
   ? "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/AdventureScreen/View/AdventuresCollection/AdventuresCollectionViewCell.swift"
@@ -24,7 +24,8 @@ inputs:
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Models/Responses.swift": [1683037169, 428565979]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Services/AppDataStore.swift": [1683037169, 429974555]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Services/AppNetworkStore.swift": [1683037169, 430834293]
-  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Config/AppDelegate.swift": [1683037169, 431709289]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Services/CoreDataManager.swift": !private [1683538913, 763313770]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Config/AppDelegate.swift": [1683294985, 738691568]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Config/SceneDelegate.swift": [1683037169, 442026138]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/HomeScreen/View/CharacterCell/CharactersTableViewCell.swift": [1683037169, 449367046]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/HomeScreen/View/ContainerViewController.swift": [1683037169, 450863361]
@@ -45,7 +46,7 @@ inputs:
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/View/ThirdCharacterViewController.swift": [1683037169, 476106405]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/ViewModel/NewCharacterViewModel.swift": [1683037169, 477084159]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/ViewModel/SecondaryViewModel.swift": [1683037169, 478032827]
-  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/ViewModel/ThirdCharacterViewModel.swift": [1683037169, 479024410]
+  "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/ViewModel/ThirdCharacterViewModel.swift": !private [1684054213, 477179527]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/OnboardingScreen/View/OnboardingViewController.swift": [1683037169, 483424663]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/OnboardingScreen/View/SignInViewController.swift": [1683037169, 484460592]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/OnboardingScreen/View/SignUpViewController.swift": [1683037169, 486217021]
@@ -55,3 +56,9 @@ inputs:
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/SideMenuScreen/Model/SideMenuModel.swift": [1683037169, 491710662]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/SideMenuScreen/View/SideMenuCell/SideMenuTableViewCell.swift": [1683037169, 492773056]
   "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/SideMenuScreen/View/SideMenuViewController.swift": [1683037169, 493713855]
+  ? "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/DerivedSources/CoreDataGenerated/DungeonsForgeContainer/DungeonsForgeContainer+CoreDataModel.swift"
+  : [1683291991, 168529033]
+  ? "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/DerivedSources/CoreDataGenerated/DungeonsForgeContainer/DungeonsForgeEntity+CoreDataClass.swift"
+  : [1683291991, 172993898]
+  ? "/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/DerivedSources/CoreDataGenerated/DungeonsForgeContainer/DungeonsForgeEntity+CoreDataProperties.swift"
+  : [1683291991, 182704925]
