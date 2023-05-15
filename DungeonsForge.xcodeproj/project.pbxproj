@@ -25,6 +25,8 @@
 		3E48A88D2A014D6C00093191 /* SignUpViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E48A88C2A014D6C00093191 /* SignUpViewModelTest.swift */; };
 		3E48A88F2A03CDD000093191 /* CharacterSheet.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E48A88E2A03CDD000093191 /* CharacterSheet.storyboard */; };
 		3E972D602A0149C90014238C /* SecondaryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E972D5F2A0149C90014238C /* SecondaryViewModel.swift */; };
+		3E9942852A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3E9942832A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodeld */; };
+		3E9942872A0542F000DEE962 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9942862A0542F000DEE962 /* CoreDataManager.swift */; };
 		3EA599AE2A0130CC00CF7F5B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA599AD2A0130CC00CF7F5B /* AppDelegate.swift */; };
 		3EA599B52A0130CC00CF7F5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EA599B32A0130CC00CF7F5B /* Main.storyboard */; };
 		3EA599DD2A0130DC00CF7F5B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA599AF2A0130CC00CF7F5B /* SceneDelegate.swift */; };
@@ -106,6 +108,8 @@
 		3E48A88C2A014D6C00093191 /* SignUpViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewModelTest.swift; sourceTree = "<group>"; };
 		3E48A88E2A03CDD000093191 /* CharacterSheet.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CharacterSheet.storyboard; sourceTree = "<group>"; };
 		3E972D5F2A0149C90014238C /* SecondaryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondaryViewModel.swift; sourceTree = "<group>"; };
+		3E9942842A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DungeonsForgeContainer.xcdatamodel; sourceTree = "<group>"; };
+		3E9942862A0542F000DEE962 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
 		3EA599AA2A0130CC00CF7F5B /* DungeonsForge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DungeonsForge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EA599AD2A0130CC00CF7F5B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EA599AF2A0130CC00CF7F5B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -241,8 +245,8 @@
 				3EA59A702A013F3000CF7F5B /* ProfileScreen */,
 				3EA59A742A013F5C00CF7F5B /* SideMenuScreen */,
 				3EA59A7E2A013FEA00CF7F5B /* SettingsScreen */,
-				3EA59A7F2A013FF500CF7F5B /* AttributesScreen */,
 				3EA59A022A0134F300CF7F5B /* Config */,
+				3EA59A7F2A013FF500CF7F5B /* AttributesScreen */,
 			);
 			path = DungeonsForge;
 			sourceTree = "<group>";
@@ -272,6 +276,8 @@
 			children = (
 				3EA599E82A01324D00CF7F5B /* AppNetworkStore.swift */,
 				3EA599EA2A01326200CF7F5B /* AppDataStore.swift */,
+				3E9942862A0542F000DEE962 /* CoreDataManager.swift */,
+				3E9942832A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodeld */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -769,6 +775,7 @@
 				3EA59A5C2A013D1000CF7F5B /* NewCharacterViewController.swift in Sources */,
 				3EA59A332A0137D100CF7F5B /* TabBarViewController.swift in Sources */,
 				3EA599F72A01331D00CF7F5B /* FlowLayout.swift in Sources */,
+				3E9942872A0542F000DEE962 /* CoreDataManager.swift in Sources */,
 				3EA59A2D2A01376200CF7F5B /* LandingViewController.swift in Sources */,
 				3EA599EF2A0132B100CF7F5B /* KeyboardView.swift in Sources */,
 				3EA599E92A01324D00CF7F5B /* AppNetworkStore.swift in Sources */,
@@ -794,6 +801,7 @@
 				3EA59A372A01381600CF7F5B /* LandingViewModel.swift in Sources */,
 				3EA59A622A013D6A00CF7F5B /* NewCharacterViewModel.swift in Sources */,
 				3EA59A5E2A013D2F00CF7F5B /* SecondaryCharacterViewController.swift in Sources */,
+				3E9942852A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodeld in Sources */,
 				3EA59A6F2A013F0600CF7F5B /* CharacterSheetViewModel.swift in Sources */,
 				3EA59A522A013B6B00CF7F5B /* LibraryViewModel.swift in Sources */,
 				3EA599FD2A01338C00CF7F5B /* SplashViewController.swift in Sources */,
@@ -1059,6 +1067,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		3E9942832A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3E9942842A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodel */,
+			);
+			currentVersion = 3E9942842A05362C00DEE962 /* DungeonsForgeContainer.xcdatamodel */;
+			path = DungeonsForgeContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 3EA599A22A0130CC00CF7F5B /* Project object */;
 }

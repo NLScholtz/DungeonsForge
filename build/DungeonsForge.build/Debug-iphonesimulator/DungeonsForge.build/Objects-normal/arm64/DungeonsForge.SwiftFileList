@@ -19,6 +19,7 @@
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/NewCharacterScreen/View/NewCharacterViewController.swift
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/HomeScreen/View/TabBar/TabBarViewController.swift
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/CustomViews/FlowLayout.swift
+/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Services/CoreDataManager.swift
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/HomeScreen/View/LandingViewController.swift
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/CustomViews/KeyboardView.swift
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Common/Services/AppNetworkStore.swift
@@ -47,3 +48,6 @@
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/CharacterSheetScreen/ViewModel/CharacterSheetViewModel.swift
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/LibraryScreen/ViewModel/LibraryViewModel.swift
 /Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/DungeonsForge/Launch+SplashScreen/View/SplashViewController.swift
+/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/DerivedSources/CoreDataGenerated/DungeonsForgeContainer/DungeonsForgeEntity+CoreDataClass.swift
+/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/DerivedSources/CoreDataGenerated/DungeonsForgeContainer/DungeonsForgeEntity+CoreDataProperties.swift
+/Users/nscholtz/Desktop/Develop/PetProj/DungeonsForge/build/DungeonsForge.build/Debug-iphonesimulator/DungeonsForge.build/DerivedSources/CoreDataGenerated/DungeonsForgeContainer/DungeonsForgeContainer+CoreDataModel.swift

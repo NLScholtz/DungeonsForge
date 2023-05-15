@@ -230,6 +230,7 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreData;
 @import CoreFoundation;
 @import Foundation;
 @import UIKit;
@@ -417,6 +418,24 @@ SWIFT_CLASS("_TtC13DungeonsForge23ContainerViewController")
 - (void)toggleSideMenu;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class NSEntityDescription;
+@class NSManagedObjectContext;
+
+SWIFT_CLASS_NAMED("DungeonsForgeEntity")
+@interface DungeonsForgeEntity : NSManagedObject
+- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@class NSUUID;
+
+@interface DungeonsForgeEntity (SWIFT_EXTENSION(DungeonsForge))
+@property (nonatomic, copy) NSString * _Nullable email;
+@property (nonatomic, copy) NSUUID * _Nullable id;
+@property (nonatomic, copy) NSString * _Nullable password;
+@property (nonatomic, copy) NSString * _Nullable username;
 @end
 
 @class UICollectionViewLayoutAttributes;

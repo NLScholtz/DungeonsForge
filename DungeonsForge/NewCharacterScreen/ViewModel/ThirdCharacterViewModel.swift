@@ -23,7 +23,6 @@ class ThirdCharacterViewModel {
     var appStorageController: AppDataStorable
     var appNetworkController: AppNetwordStorable
     
-    
     init(delegate: ThirdCharacterViewModelDelegate, appStorageController: AppDataStorable, appNetworkController: AppNetwordStorable) {
         self.delegate = delegate
         self.appStorageController = appStorageController
